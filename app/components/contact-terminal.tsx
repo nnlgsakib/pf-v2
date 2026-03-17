@@ -18,7 +18,7 @@ const contacts: ContactItem[] = [
     external: true,
   },
   { label: 'x', command: 'open x', href: 'https://twitter.com/nlg_sakib', external: true },
-  { label: 'email', command: 'open email', href: 'mailto:nlgarts@outlook.com' },
+  { label: 'email', command: 'open email', href: 'mailto:me@nlgsakib.online' },
 ];
 
 export function ContactTerminal() {

@@ -301,6 +301,6 @@ export const profileNarrative = {
     github: 'https://github.com/nnlgsakib',
     linkedin: 'https://www.linkedin.com/in/nlg-sakib-338339279/',
     twitter: 'https://twitter.com/nlg_sakib',
-    email: 'mailto:nlgarts@outlook.com',
+    email: 'mailto:me@nlgsakib.online',
   },
 };
