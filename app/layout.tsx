@@ -23,6 +23,11 @@ export const metadata: Metadata = {
   title: 'NLG Sakib | Portfolio',
   description:
     'Professional portfolio for NLG Sakib, showcasing blockchain infrastructure, distributed systems, and full-stack engineering work.',
+  icons: {
+    icon: 'https://github.com/nnlgsakib.png',
+    shortcut: 'https://github.com/nnlgsakib.png',
+    apple: 'https://github.com/nnlgsakib.png',
+  },
 };
 
 export default function RootLayout({
